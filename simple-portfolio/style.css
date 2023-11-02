@@ -33,7 +33,7 @@ nav{
 }
 
 .logo img{
-    width: 100px;
+    width: 80px;
     border-radius: 50%;
 }
 
@@ -72,7 +72,7 @@ nav ul li a::after{
     width: 0;
     position: absolute;
     height: 3px;
-    background-color: #000;
+    background-color: #CD5C08;
     transition: 0.2s ease;
 }
 
@@ -83,7 +83,7 @@ nav ul li a:hover::after{
 .btn{
     color: #fff;
     text-transform: uppercase;
-    background-color: rgb(15, 15, 239);
+    background-color: #04364A;
     padding: 10px 30px;
     border-radius: 2em;
     display: inline-block;
@@ -132,7 +132,7 @@ nav ul li a:hover::after{
 }
 
 .detail span{
-    color: rgb(15, 15, 239);
+    color: #CD5C08;
 }
 
 
@@ -166,7 +166,7 @@ nav ul li a:hover::after{
 .copyright{
     position: absolute;
     bottom: 0;
-    background-color: rgb(15, 15, 239);
+    background-color: #04364A;
     width: 100%;
     text-align: center;
     padding: 10px 0;
